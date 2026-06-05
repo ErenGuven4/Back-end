@@ -1,0 +1,1846 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Bölüm 1 (2 Heceli Kolay)",
+      "description": "İki heceli basit kelimeler",
+      "requiredScore": 0
+    },
+    {
+      "id": 2,
+      "name": "Bölüm 2 (2 Heceli Kolay)",
+      "description": "İki heceli basit kelimeler",
+      "requiredScore": 80
+    },
+    {
+      "id": 3,
+      "name": "Bölüm 3 (2 Heceli Kolay)",
+      "description": "İki heceli basit kelimeler",
+      "requiredScore": 160
+    },
+    {
+      "id": 4,
+      "name": "Bölüm 4 (2 Heceli Kolay)",
+      "description": "İki heceli basit kelimeler",
+      "requiredScore": 240
+    },
+    {
+      "id": 5,
+      "name": "Bölüm 5 (2 Heceli Kolay)",
+      "description": "İki heceli basit kelimeler",
+      "requiredScore": 320
+    },
+    {
+      "id": 6,
+      "name": "Bölüm 6 (2 Heceli Orta)",
+      "description": "İki heceli orta zorlukta kelimeler",
+      "requiredScore": 400
+    },
+    {
+      "id": 7,
+      "name": "Bölüm 7 (2 Heceli Orta)",
+      "description": "İki heceli orta zorlukta kelimeler",
+      "requiredScore": 480
+    },
+    {
+      "id": 8,
+      "name": "Bölüm 8 (2 Heceli Orta)",
+      "description": "İki heceli orta zorlukta kelimeler",
+      "requiredScore": 560
+    },
+    {
+      "id": 9,
+      "name": "Bölüm 9 (2 Heceli Orta)",
+      "description": "İki heceli orta zorlukta kelimeler",
+      "requiredScore": 640
+    },
+    {
+      "id": 10,
+      "name": "Bölüm 10 (2 Heceli Orta)",
+      "description": "İki heceli orta zorlukta kelimeler",
+      "requiredScore": 720
+    },
+    {
+      "id": 11,
+      "name": "Bölüm 11 (3 Heceli)",
+      "description": "Üç heceli kelimeler",
+      "requiredScore": 800
+    },
+    {
+      "id": 12,
+      "name": "Bölüm 12 (3 Heceli)",
+      "description": "Üç heceli kelimeler",
+      "requiredScore": 880
+    },
+    {
+      "id": 13,
+      "name": "Bölüm 13 (3 Heceli)",
+      "description": "Üç heceli kelimeler",
+      "requiredScore": 960
+    },
+    {
+      "id": 14,
+      "name": "Bölüm 14 (3 Heceli)",
+      "description": "Üç heceli kelimeler",
+      "requiredScore": 1040
+    },
+    {
+      "id": 15,
+      "name": "Bölüm 15 (3 Heceli)",
+      "description": "Üç heceli kelimeler",
+      "requiredScore": 1120
+    },
+    {
+      "id": 16,
+      "name": "Bölüm 16 (4+ Heceli Zor)",
+      "description": "Uzun ve zorlu kelimeler",
+      "requiredScore": 1200
+    },
+    {
+      "id": 17,
+      "name": "Bölüm 17 (4+ Heceli Zor)",
+      "description": "Uzun ve zorlu kelimeler",
+      "requiredScore": 1280
+    },
+    {
+      "id": 18,
+      "name": "Bölüm 18 (4+ Heceli Zor)",
+      "description": "Uzun ve zorlu kelimeler",
+      "requiredScore": 1360
+    },
+    {
+      "id": 19,
+      "name": "Bölüm 19 (4+ Heceli Zor)",
+      "description": "Uzun ve zorlu kelimeler",
+      "requiredScore": 1440
+    },
+    {
+      "id": 20,
+      "name": "Bölüm 20 (4+ Heceli Zor)",
+      "description": "Uzun ve zorlu kelimeler",
+      "requiredScore": 1520
+    }
+  ],
+  "words": [
+    {
+      "id": "w1",
+      "word": "Elma",
+      "syllables": [
+        "El",
+        "ma"
+      ],
+      "level": 1,
+      "emoji": "🍎"
+    },
+    {
+      "id": "w2",
+      "word": "Arı",
+      "syllables": [
+        "A",
+        "rı"
+      ],
+      "level": 1,
+      "emoji": "🐝"
+    },
+    {
+      "id": "w3",
+      "word": "Kapı",
+      "syllables": [
+        "Ka",
+        "pı"
+      ],
+      "level": 1,
+      "emoji": "🚪"
+    },
+    {
+      "id": "w4",
+      "word": "Balık",
+      "syllables": [
+        "Ba",
+        "lık"
+      ],
+      "level": 1,
+      "emoji": "🐟"
+    },
+    {
+      "id": "w5",
+      "word": "Balon",
+      "syllables": [
+        "Ba",
+        "lon"
+      ],
+      "level": 1,
+      "emoji": "🎈"
+    },
+    {
+      "id": "w6",
+      "word": "Kedi",
+      "syllables": [
+        "Ke",
+        "di"
+      ],
+      "level": 1,
+      "emoji": "🐱"
+    },
+    {
+      "id": "w7",
+      "word": "Fare",
+      "syllables": [
+        "Fa",
+        "re"
+      ],
+      "level": 1,
+      "emoji": "🐭"
+    },
+    {
+      "id": "w8",
+      "word": "Köpek",
+      "syllables": [
+        "Kö",
+        "pek"
+      ],
+      "level": 1,
+      "emoji": "🐶"
+    },
+    {
+      "id": "w9",
+      "word": "Ördek",
+      "syllables": [
+        "Ör",
+        "dek"
+      ],
+      "level": 2,
+      "emoji": "🦆"
+    },
+    {
+      "id": "w10",
+      "word": "Tavşan",
+      "syllables": [
+        "Tav",
+        "şan"
+      ],
+      "level": 2,
+      "emoji": "🐰"
+    },
+    {
+      "id": "w11",
+      "word": "Kuzu",
+      "syllables": [
+        "Ku",
+        "zu"
+      ],
+      "level": 2,
+      "emoji": "🐑"
+    },
+    {
+      "id": "w12",
+      "word": "Gemi",
+      "syllables": [
+        "Ge",
+        "mi"
+      ],
+      "level": 2,
+      "emoji": "🚢"
+    },
+    {
+      "id": "w13",
+      "word": "Deve",
+      "syllables": [
+        "De",
+        "ve"
+      ],
+      "level": 2,
+      "emoji": "🐫"
+    },
+    {
+      "id": "w14",
+      "word": "Çanta",
+      "syllables": [
+        "Çan",
+        "ta"
+      ],
+      "level": 2,
+      "emoji": "🎒"
+    },
+    {
+      "id": "w15",
+      "word": "Çilek",
+      "syllables": [
+        "Çi",
+        "lek"
+      ],
+      "level": 2,
+      "emoji": "🍓"
+    },
+    {
+      "id": "w16",
+      "word": "Ayna",
+      "syllables": [
+        "Ay",
+        "na"
+      ],
+      "level": 2,
+      "emoji": "🪞"
+    },
+    {
+      "id": "w17",
+      "word": "Ayı",
+      "syllables": [
+        "A",
+        "yı"
+      ],
+      "level": 3,
+      "emoji": "🐻"
+    },
+    {
+      "id": "w18",
+      "word": "Dede",
+      "syllables": [
+        "De",
+        "de"
+      ],
+      "level": 3,
+      "emoji": "👴"
+    },
+    {
+      "id": "w19",
+      "word": "Anne",
+      "syllables": [
+        "An",
+        "ne"
+      ],
+      "level": 3,
+      "emoji": "👩"
+    },
+    {
+      "id": "w20",
+      "word": "Baba",
+      "syllables": [
+        "Ba",
+        "ba"
+      ],
+      "level": 3,
+      "emoji": "👨"
+    },
+    {
+      "id": "w21",
+      "word": "Bulut",
+      "syllables": [
+        "Bu",
+        "lut"
+      ],
+      "level": 3,
+      "emoji": "☁️"
+    },
+    {
+      "id": "w22",
+      "word": "Deniz",
+      "syllables": [
+        "De",
+        "niz"
+      ],
+      "level": 3,
+      "emoji": "🌊"
+    },
+    {
+      "id": "w23",
+      "word": "Kalem",
+      "syllables": [
+        "Ka",
+        "lem"
+      ],
+      "level": 3,
+      "emoji": "✏️"
+    },
+    {
+      "id": "w24",
+      "word": "Kitap",
+      "syllables": [
+        "Ki",
+        "tap"
+      ],
+      "level": 3,
+      "emoji": "📖"
+    },
+    {
+      "id": "w25",
+      "word": "Yılan",
+      "syllables": [
+        "Yı",
+        "lan"
+      ],
+      "level": 4,
+      "emoji": "🐍"
+    },
+    {
+      "id": "w26",
+      "word": "İnek",
+      "syllables": [
+        "İn",
+        "ek"
+      ],
+      "level": 4,
+      "emoji": "🐄"
+    },
+    {
+      "id": "w27",
+      "word": "Nane",
+      "syllables": [
+        "Na",
+        "ne"
+      ],
+      "level": 4,
+      "emoji": "🌿"
+    },
+    {
+      "id": "w28",
+      "word": "Soğan",
+      "syllables": [
+        "So",
+        "ğan"
+      ],
+      "level": 4,
+      "emoji": "🧅"
+    },
+    {
+      "id": "w29",
+      "word": "Limon",
+      "syllables": [
+        "Li",
+        "mon"
+      ],
+      "level": 4,
+      "emoji": "🍋"
+    },
+    {
+      "id": "w30",
+      "word": "Aslan",
+      "syllables": [
+        "As",
+        "lan"
+      ],
+      "level": 4,
+      "emoji": "🦁"
+    },
+    {
+      "id": "w31",
+      "word": "Kaplan",
+      "syllables": [
+        "Kap",
+        "lan"
+      ],
+      "level": 4,
+      "emoji": "🐯"
+    },
+    {
+      "id": "w32",
+      "word": "Kuğu",
+      "syllables": [
+        "Ku",
+        "ğu"
+      ],
+      "level": 4,
+      "emoji": "🦢"
+    },
+    {
+      "id": "w33",
+      "word": "Bebek",
+      "syllables": [
+        "Be",
+        "bek"
+      ],
+      "level": 5,
+      "emoji": "👶"
+    },
+    {
+      "id": "w34",
+      "word": "Bina",
+      "syllables": [
+        "Bi",
+        "na"
+      ],
+      "level": 5,
+      "emoji": "🏢"
+    },
+    {
+      "id": "w35",
+      "word": "Böcek",
+      "syllables": [
+        "Bö",
+        "cek"
+      ],
+      "level": 5,
+      "emoji": "🐞"
+    },
+    {
+      "id": "w36",
+      "word": "Cami",
+      "syllables": [
+        "Ca",
+        "mi"
+      ],
+      "level": 5,
+      "emoji": "🕌"
+    },
+    {
+      "id": "w37",
+      "word": "Ciciv",
+      "syllables": [
+        "Ci",
+        "civ"
+      ],
+      "level": 5,
+      "emoji": "🐥"
+    },
+    {
+      "id": "w38",
+      "word": "Dayı",
+      "syllables": [
+        "Da",
+        "yı"
+      ],
+      "level": 5,
+      "emoji": "👨"
+    },
+    {
+      "id": "w39",
+      "word": "Dere",
+      "syllables": [
+        "De",
+        "re"
+      ],
+      "level": 5,
+      "emoji": "🏞️"
+    },
+    {
+      "id": "w40",
+      "word": "Ekmek",
+      "syllables": [
+        "Ek",
+        "mek"
+      ],
+      "level": 5,
+      "emoji": "🍞"
+    },
+    {
+      "id": "w41",
+      "word": "Ağaç",
+      "syllables": [
+        "A",
+        "ğaç"
+      ],
+      "level": 6,
+      "emoji": "🌳"
+    },
+    {
+      "id": "w42",
+      "word": "Fırça",
+      "syllables": [
+        "Fır",
+        "ça"
+      ],
+      "level": 6,
+      "emoji": "🖌️"
+    },
+    {
+      "id": "w43",
+      "word": "Gece",
+      "syllables": [
+        "Ge",
+        "ce"
+      ],
+      "level": 6,
+      "emoji": "🌙"
+    },
+    {
+      "id": "w44",
+      "word": "Gözlük",
+      "syllables": [
+        "Göz",
+        "lük"
+      ],
+      "level": 6,
+      "emoji": "👓"
+    },
+    {
+      "id": "w45",
+      "word": "Halı",
+      "syllables": [
+        "Ha",
+        "lı"
+      ],
+      "level": 6,
+      "emoji": "🧶"
+    },
+    {
+      "id": "w46",
+      "word": "İncir",
+      "syllables": [
+        "İn",
+        "cir"
+      ],
+      "level": 6,
+      "emoji": "🥣"
+    },
+    {
+      "id": "w47",
+      "word": "İplik",
+      "syllables": [
+        "İp",
+        "lik"
+      ],
+      "level": 6,
+      "emoji": "🧵"
+    },
+    {
+      "id": "w48",
+      "word": "Kaşık",
+      "syllables": [
+        "Ka",
+        "şık"
+      ],
+      "level": 6,
+      "emoji": "🥄"
+    },
+    {
+      "id": "w49",
+      "word": "Kayak",
+      "syllables": [
+        "Ka",
+        "yak"
+      ],
+      "level": 7,
+      "emoji": "🎿"
+    },
+    {
+      "id": "w50",
+      "word": "Kızak",
+      "syllables": [
+        "Kı",
+        "zak"
+      ],
+      "level": 7,
+      "emoji": "🛷"
+    },
+    {
+      "id": "w51",
+      "word": "Koltuk",
+      "syllables": [
+        "Kol",
+        "tuk"
+      ],
+      "level": 7,
+      "emoji": "🛋️"
+    },
+    {
+      "id": "w52",
+      "word": "Kuşlar",
+      "syllables": [
+        "Kuş",
+        "lar"
+      ],
+      "level": 7,
+      "emoji": "🐦"
+    },
+    {
+      "id": "w53",
+      "word": "Lâmba",
+      "syllables": [
+        "Lâm",
+        "ba"
+      ],
+      "level": 7,
+      "emoji": "💡"
+    },
+    {
+      "id": "w54",
+      "word": "Mantar",
+      "syllables": [
+        "Man",
+        "tar"
+      ],
+      "level": 7,
+      "emoji": "🍄"
+    },
+    {
+      "id": "w55",
+      "word": "Melek",
+      "syllables": [
+        "Me",
+        "lek"
+      ],
+      "level": 7,
+      "emoji": "👼"
+    },
+    {
+      "id": "w56",
+      "word": "Peynir",
+      "syllables": [
+        "Peyn",
+        "ir"
+      ],
+      "level": 7,
+      "emoji": "🧀"
+    },
+    {
+      "id": "w57",
+      "word": "Meyve",
+      "syllables": [
+        "Mey",
+        "ve"
+      ],
+      "level": 8,
+      "emoji": "🍏"
+    },
+    {
+      "id": "w58",
+      "word": "Nehir",
+      "syllables": [
+        "Ne",
+        "hir"
+      ],
+      "level": 8,
+      "emoji": "🏞️"
+    },
+    {
+      "id": "w59",
+      "word": "Orman",
+      "syllables": [
+        "Or",
+        "man"
+      ],
+      "level": 8,
+      "emoji": "🌲"
+    },
+    {
+      "id": "w60",
+      "word": "Oyun",
+      "syllables": [
+        "O",
+        "yun"
+      ],
+      "level": 8,
+      "emoji": "🎮"
+    },
+    {
+      "id": "w61",
+      "word": "Örtü",
+      "syllables": [
+        "Ör",
+        "tü"
+      ],
+      "level": 8,
+      "emoji": "🛏️"
+    },
+    {
+      "id": "w62",
+      "word": "Pamuk",
+      "syllables": [
+        "Pa",
+        "muk"
+      ],
+      "level": 8,
+      "emoji": "☁️"
+    },
+    {
+      "id": "w63",
+      "word": "Pasta",
+      "syllables": [
+        "Pas",
+        "ta"
+      ],
+      "level": 8,
+      "emoji": "🍰"
+    },
+    {
+      "id": "w64",
+      "word": "Fırın",
+      "syllables": [
+        "Fı",
+        "rın"
+      ],
+      "level": 8,
+      "emoji": "🥖"
+    },
+    {
+      "id": "w65",
+      "word": "Radyo",
+      "syllables": [
+        "Ra",
+        "dyo"
+      ],
+      "level": 9,
+      "emoji": "📻"
+    },
+    {
+      "id": "w66",
+      "word": "Resim",
+      "syllables": [
+        "Re",
+        "sim"
+      ],
+      "level": 9,
+      "emoji": "🖼️"
+    },
+    {
+      "id": "w67",
+      "word": "Rüzgar",
+      "syllables": [
+        "Rüz",
+        "gar"
+      ],
+      "level": 9,
+      "emoji": "🌬️"
+    },
+    {
+      "id": "w68",
+      "word": "Saat",
+      "syllables": [
+        "Sa",
+        "at"
+      ],
+      "level": 9,
+      "emoji": "⌚"
+    },
+    {
+      "id": "w69",
+      "word": "Sakal",
+      "syllables": [
+        "Sa",
+        "kal"
+      ],
+      "level": 9,
+      "emoji": "🧔"
+    },
+    {
+      "id": "w70",
+      "word": "Silgi",
+      "syllables": [
+        "Si",
+        "lgi"
+      ],
+      "level": 9,
+      "emoji": "✏️"
+    },
+    {
+      "id": "w71",
+      "word": "Şeker",
+      "syllables": [
+        "Şe",
+        "ker"
+      ],
+      "level": 9,
+      "emoji": "🍬"
+    },
+    {
+      "id": "w72",
+      "word": "Şişe",
+      "syllables": [
+        "Şiş",
+        "e"
+      ],
+      "level": 9,
+      "emoji": "🍾"
+    },
+    {
+      "id": "w73",
+      "word": "Tabak",
+      "syllables": [
+        "Ta",
+        "bak"
+      ],
+      "level": 10,
+      "emoji": "🍽️"
+    },
+    {
+      "id": "w74",
+      "word": "Tavuk",
+      "syllables": [
+        "Tav",
+        "uk"
+      ],
+      "level": 10,
+      "emoji": "🐔"
+    },
+    {
+      "id": "w75",
+      "word": "Tepsi",
+      "syllables": [
+        "Te",
+        "psi"
+      ],
+      "level": 10,
+      "emoji": "🥘"
+    },
+    {
+      "id": "w76",
+      "word": "Uçak",
+      "syllables": [
+        "U",
+        "çak"
+      ],
+      "level": 10,
+      "emoji": "✈️"
+    },
+    {
+      "id": "w77",
+      "word": "Üzüm",
+      "syllables": [
+        "Ü",
+        "züm"
+      ],
+      "level": 10,
+      "emoji": "🍇"
+    },
+    {
+      "id": "w78",
+      "word": "Vazo",
+      "syllables": [
+        "Va",
+        "zo"
+      ],
+      "level": 10,
+      "emoji": "🏺"
+    },
+    {
+      "id": "w79",
+      "word": "Yatak",
+      "syllables": [
+        "Ya",
+        "tak"
+      ],
+      "level": 10,
+      "emoji": "🛏️"
+    },
+    {
+      "id": "w80",
+      "word": "Yıldız",
+      "syllables": [
+        "Yıl",
+        "dız"
+      ],
+      "level": 10,
+      "emoji": "⭐"
+    },
+    {
+      "id": "w81",
+      "word": "Araba",
+      "syllables": [
+        "A",
+        "ra",
+        "ba"
+      ],
+      "level": 11,
+      "emoji": "🚗"
+    },
+    {
+      "id": "w82",
+      "word": "Portakal",
+      "syllables": [
+        "Por",
+        "ta",
+        "kal"
+      ],
+      "level": 11,
+      "emoji": "🍊"
+    },
+    {
+      "id": "w83",
+      "word": "Kelebek",
+      "syllables": [
+        "Ke",
+        "le",
+        "bek"
+      ],
+      "level": 11,
+      "emoji": "🦋"
+    },
+    {
+      "id": "w84",
+      "word": "Papatya",
+      "syllables": [
+        "Pa",
+        "pat",
+        "ya"
+      ],
+      "level": 11,
+      "emoji": "🌼"
+    },
+    {
+      "id": "w85",
+      "word": "Timsahı",
+      "syllables": [
+        "Tim",
+        "sa",
+        "hı"
+      ],
+      "level": 11,
+      "emoji": "🐊"
+    },
+    {
+      "id": "w86",
+      "word": "Karınca",
+      "syllables": [
+        "Ka",
+        "rın",
+        "ca"
+      ],
+      "level": 11,
+      "emoji": "🐜"
+    },
+    {
+      "id": "w87",
+      "word": "Çekirge",
+      "syllables": [
+        "Çe",
+        "kir",
+        "ge"
+      ],
+      "level": 11,
+      "emoji": "🦗"
+    },
+    {
+      "id": "w88",
+      "word": "Yarasa",
+      "syllables": [
+        "Yar",
+        "a",
+        "sa"
+      ],
+      "level": 11,
+      "emoji": "🦇"
+    },
+    {
+      "id": "w89",
+      "word": "Otobüs",
+      "syllables": [
+        "O",
+        "to",
+        "büs"
+      ],
+      "level": 12,
+      "emoji": "🚌"
+    },
+    {
+      "id": "w90",
+      "word": "Bisiklet",
+      "syllables": [
+        "Bi",
+        "sik",
+        "let"
+      ],
+      "level": 12,
+      "emoji": "🚲"
+    },
+    {
+      "id": "w91",
+      "word": "Şemsiye",
+      "syllables": [
+        "Şem",
+        "si",
+        "ye"
+      ],
+      "level": 12,
+      "emoji": "☔"
+    },
+    {
+      "id": "w92",
+      "word": "Kırmızı",
+      "syllables": [
+        "Kır",
+        "mı",
+        "zı"
+      ],
+      "level": 12,
+      "emoji": "🔴"
+    },
+    {
+      "id": "w93",
+      "word": "Lâcivert",
+      "syllables": [
+        "Lâ",
+        "ci",
+        "vert"
+      ],
+      "level": 12,
+      "emoji": "🔵"
+    },
+    {
+      "id": "w94",
+      "word": "Pembeli",
+      "syllables": [
+        "Pem",
+        "be",
+        "li"
+      ],
+      "level": 12,
+      "emoji": "🌺"
+    },
+    {
+      "id": "w95",
+      "word": "Turuncu",
+      "syllables": [
+        "Tu",
+        "run",
+        "cu"
+      ],
+      "level": 12,
+      "emoji": "🟠"
+    },
+    {
+      "id": "w96",
+      "word": "Sarılık",
+      "syllables": [
+        "Sar",
+        "ı",
+        "lık"
+      ],
+      "level": 12,
+      "emoji": "🟡"
+    },
+    {
+      "id": "w97",
+      "word": "Oyuncak",
+      "syllables": [
+        "Oy",
+        "un",
+        "cak"
+      ],
+      "level": 13,
+      "emoji": "🧸"
+    },
+    {
+      "id": "w98",
+      "word": "Kurbağa",
+      "syllables": [
+        "Kur",
+        "ba",
+        "ğa"
+      ],
+      "level": 13,
+      "emoji": "🐸"
+    },
+    {
+      "id": "w99",
+      "word": "Güvercin",
+      "syllables": [
+        "Gü",
+        "ver",
+        "cin"
+      ],
+      "level": 13,
+      "emoji": "🕊️"
+    },
+    {
+      "id": "w100",
+      "word": "Minderi",
+      "syllables": [
+        "Min",
+        "de",
+        "ri"
+      ],
+      "level": 13,
+      "emoji": "🪑"
+    },
+    {
+      "id": "w101",
+      "word": "Kanguru",
+      "syllables": [
+        "Kan",
+        "gu",
+        "ru"
+      ],
+      "level": 13,
+      "emoji": "🦘"
+    },
+    {
+      "id": "w102",
+      "word": "Ayazlık",
+      "syllables": [
+        "A",
+        "yaz",
+        "lık"
+      ],
+      "level": 13,
+      "emoji": "❄️"
+    },
+    {
+      "id": "w103",
+      "word": "Gezgene",
+      "syllables": [
+        "Gez",
+        "ge",
+        "ne"
+      ],
+      "level": 13,
+      "emoji": "🪐"
+    },
+    {
+      "id": "w104",
+      "word": "Çocuğum",
+      "syllables": [
+        "Ço",
+        "cu",
+        "ğum"
+      ],
+      "level": 13,
+      "emoji": "🧒"
+    },
+    {
+      "id": "w105",
+      "word": "Kamera",
+      "syllables": [
+        "Ka",
+        "me",
+        "ra"
+      ],
+      "level": 14,
+      "emoji": "📷"
+    },
+    {
+      "id": "w106",
+      "word": "Telefon",
+      "syllables": [
+        "Te",
+        "le",
+        "fon"
+      ],
+      "level": 14,
+      "emoji": "📱"
+    },
+    {
+      "id": "w107",
+      "word": "Makara",
+      "syllables": [
+        "Ma",
+        "ka",
+        "ra"
+      ],
+      "level": 14,
+      "emoji": "🧵"
+    },
+    {
+      "id": "w108",
+      "word": "Pencere",
+      "syllables": [
+        "Pen",
+        "ce",
+        "re"
+      ],
+      "level": 14,
+      "emoji": "🪟"
+    },
+    {
+      "id": "w109",
+      "word": "Tiyatro",
+      "syllables": [
+        "Tiy",
+        "at",
+        "ro"
+      ],
+      "level": 14,
+      "emoji": "🎭"
+    },
+    {
+      "id": "w110",
+      "word": "Sinema",
+      "syllables": [
+        "Si",
+        "ne",
+        "ma"
+      ],
+      "level": 14,
+      "emoji": "🍿"
+    },
+    {
+      "id": "w111",
+      "word": "Yarasa",
+      "syllables": [
+        "Ya",
+        "ra",
+        "sa"
+      ],
+      "level": 14,
+      "emoji": "🦇"
+    },
+    {
+      "id": "w112",
+      "word": "Tekerlek",
+      "syllables": [
+        "Te",
+        "ker",
+        "lek"
+      ],
+      "level": 14,
+      "emoji": "🛞"
+    },
+    {
+      "id": "w113",
+      "word": "Makasa",
+      "syllables": [
+        "Ma",
+        "ka",
+        "sa"
+      ],
+      "level": 15,
+      "emoji": "✂️"
+    },
+    {
+      "id": "w114",
+      "word": "Otoyol",
+      "syllables": [
+        "O",
+        "to",
+        "yol"
+      ],
+      "level": 15,
+      "emoji": "🛣️"
+    },
+    {
+      "id": "w115",
+      "word": "Otomobil",
+      "syllables": [
+        "O",
+        "to",
+        "mobil"
+      ],
+      "level": 15,
+      "emoji": "🚙"
+    },
+    {
+      "id": "w116",
+      "word": "Mikrofon",
+      "syllables": [
+        "Mi",
+        "kro",
+        "fon"
+      ],
+      "level": 15,
+      "emoji": "🎤"
+    },
+    {
+      "id": "w117",
+      "word": "Şarkıcı",
+      "syllables": [
+        "Şar",
+        "kı",
+        "cı"
+      ],
+      "level": 15,
+      "emoji": "👩‍🎤"
+    },
+    {
+      "id": "w118",
+      "word": "Piyano",
+      "syllables": [
+        "Piy",
+        "a",
+        "no"
+      ],
+      "level": 15,
+      "emoji": "🎹"
+    },
+    {
+      "id": "w119",
+      "word": "Gitara",
+      "syllables": [
+        "Gi",
+        "ta",
+        "ra"
+      ],
+      "level": 15,
+      "emoji": "🎸"
+    },
+    {
+      "id": "w120",
+      "word": "Bateri",
+      "syllables": [
+        "Ba",
+        "te",
+        "ri"
+      ],
+      "level": 15,
+      "emoji": "🥁"
+    },
+    {
+      "id": "w121",
+      "word": "Bilgisayar",
+      "syllables": [
+        "Bil",
+        "gi",
+        "sa",
+        "yar"
+      ],
+      "level": 16,
+      "emoji": "💻"
+    },
+    {
+      "id": "w122",
+      "word": "Öğretmenli",
+      "syllables": [
+        "Öğ",
+        "ret",
+        "men",
+        "li"
+      ],
+      "level": 16,
+      "emoji": "👩‍🏫"
+    },
+    {
+      "id": "w123",
+      "word": "Televizyon",
+      "syllables": [
+        "Te",
+        "le",
+        "viz",
+        "yon"
+      ],
+      "level": 16,
+      "emoji": "📺"
+    },
+    {
+      "id": "w124",
+      "word": "Helikopter",
+      "syllables": [
+        "He",
+        "li",
+        "kop",
+        "ter"
+      ],
+      "level": 16,
+      "emoji": "🚁"
+    },
+    {
+      "id": "w125",
+      "word": "Ambulansa",
+      "syllables": [
+        "Am",
+        "bu",
+        "lan",
+        "sa"
+      ],
+      "level": 16,
+      "emoji": "🚑"
+    },
+    {
+      "id": "w126",
+      "word": "Çikolata",
+      "syllables": [
+        "Çi",
+        "ko",
+        "la",
+        "ta"
+      ],
+      "level": 16,
+      "emoji": "🍫"
+    },
+    {
+      "id": "w127",
+      "word": "Kütüphane",
+      "syllables": [
+        "Kü",
+        "tüp",
+        "ha",
+        "ne"
+      ],
+      "level": 16,
+      "emoji": "📚"
+    },
+    {
+      "id": "w128",
+      "word": "Hastaneli",
+      "syllables": [
+        "Has",
+        "ta",
+        "ne",
+        "li"
+      ],
+      "level": 16,
+      "emoji": "🏥"
+    },
+    {
+      "id": "w129",
+      "word": "Domatesi",
+      "syllables": [
+        "Do",
+        "ma",
+        "te",
+        "si"
+      ],
+      "level": 17,
+      "emoji": "🍅"
+    },
+    {
+      "id": "w130",
+      "word": "Patatese",
+      "syllables": [
+        "Pa",
+        "ta",
+        "te",
+        "se"
+      ],
+      "level": 17,
+      "emoji": "🥔"
+    },
+    {
+      "id": "w131",
+      "word": "Mısırına",
+      "syllables": [
+        "Mı",
+        "sı",
+        "rı",
+        "na"
+      ],
+      "level": 17,
+      "emoji": "🌽"
+    },
+    {
+      "id": "w132",
+      "word": "Gökkuşağı",
+      "syllables": [
+        "Gök",
+        "ku",
+        "şa",
+        "ğı"
+      ],
+      "level": 17,
+      "emoji": "🌈"
+    },
+    {
+      "id": "w133",
+      "word": "Kartopunu",
+      "syllables": [
+        "Kar",
+        "to",
+        "pu",
+        "nu"
+      ],
+      "level": 17,
+      "emoji": "⛄"
+    },
+    {
+      "id": "w134",
+      "word": "Okyanusta",
+      "syllables": [
+        "O",
+        "kyan",
+        "us",
+        "ta"
+      ],
+      "level": 17,
+      "emoji": "🌊"
+    },
+    {
+      "id": "w135",
+      "word": "Ananası",
+      "syllables": [
+        "A",
+        "na",
+        "na",
+        "sı"
+      ],
+      "level": 17,
+      "emoji": "🍍"
+    },
+    {
+      "id": "w136",
+      "word": "Mühendisi",
+      "syllables": [
+        "Mü",
+        "hen",
+        "di",
+        "si"
+      ],
+      "level": 17,
+      "emoji": "👷"
+    },
+    {
+      "id": "w137",
+      "word": "Bebeğimi",
+      "syllables": [
+        "Be",
+        "be",
+        "ği",
+        "mi"
+      ],
+      "level": 18,
+      "emoji": "👶"
+    },
+    {
+      "id": "w138",
+      "word": "Dolunayda",
+      "syllables": [
+        "Do",
+        "lun",
+        "ay",
+        "da"
+      ],
+      "level": 18,
+      "emoji": "🌕"
+    },
+    {
+      "id": "w139",
+      "word": "Editörlük",
+      "syllables": [
+        "E",
+        "di",
+        "tör",
+        "lük"
+      ],
+      "level": 18,
+      "emoji": "✍️"
+    },
+    {
+      "id": "w140",
+      "word": "Gezgenine",
+      "syllables": [
+        "Gez",
+        "ge",
+        "ni",
+        "ne"
+      ],
+      "level": 18,
+      "emoji": "🪐"
+    },
+    {
+      "id": "w141",
+      "word": "Haritası",
+      "syllables": [
+        "Har",
+        "i",
+        "ta",
+        "sı"
+      ],
+      "level": 18,
+      "emoji": "🗺️"
+    },
+    {
+      "id": "w142",
+      "word": "İltifata",
+      "syllables": [
+        "İl",
+        "ti",
+        "fa",
+        "ta"
+      ],
+      "level": 18,
+      "emoji": "💬"
+    },
+    {
+      "id": "w143",
+      "word": "Kalabalık",
+      "syllables": [
+        "Ka",
+        "la",
+        "ba",
+        "lık"
+      ],
+      "level": 18,
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "w144",
+      "word": "Leblebici",
+      "syllables": [
+        "Le",
+        "ble",
+        "bi",
+        "ci"
+      ],
+      "level": 18,
+      "emoji": "🥜"
+    },
+    {
+      "id": "w145",
+      "word": "Mucizeli",
+      "syllables": [
+        "Mu",
+        "ci",
+        "ze",
+        "li"
+      ],
+      "level": 19,
+      "emoji": "✨"
+    },
+    {
+      "id": "w146",
+      "word": "Nostâljisi",
+      "syllables": [
+        "No",
+        "stâl",
+        "ji",
+        "si"
+      ],
+      "level": 19,
+      "emoji": "📻"
+    },
+    {
+      "id": "w147",
+      "word": "Örtüsünü",
+      "syllables": [
+        "Ör",
+        "tü",
+        "sü",
+        "nü"
+      ],
+      "level": 19,
+      "emoji": "🛏️"
+    },
+    {
+      "id": "w148",
+      "word": "Pusulada",
+      "syllables": [
+        "Pus",
+        "u",
+        "la",
+        "da"
+      ],
+      "level": 19,
+      "emoji": "🧭"
+    },
+    {
+      "id": "w149",
+      "word": "Rekâbeti",
+      "syllables": [
+        "Re",
+        "kâ",
+        "be",
+        "ti"
+      ],
+      "level": 19,
+      "emoji": "🏁"
+    },
+    {
+      "id": "w150",
+      "word": "Sucuğunu",
+      "syllables": [
+        "Su",
+        "cu",
+        "ğu",
+        "nu"
+      ],
+      "level": 19,
+      "emoji": "🍕"
+    },
+    {
+      "id": "w151",
+      "word": "Şemsiyesi",
+      "syllables": [
+        "Şem",
+        "si",
+        "ye",
+        "si"
+      ],
+      "level": 19,
+      "emoji": "☔"
+    },
+    {
+      "id": "w152",
+      "word": "Tarafına",
+      "syllables": [
+        "Ta",
+        "ra",
+        "fı",
+        "na"
+      ],
+      "level": 19,
+      "emoji": "⬅️"
+    },
+    {
+      "id": "w153",
+      "word": "Uçurtmaya",
+      "syllables": [
+        "U",
+        "çurt",
+        "ma",
+        "ya"
+      ],
+      "level": 20,
+      "emoji": "🪁"
+    },
+    {
+      "id": "w154",
+      "word": "Vatandaşı",
+      "syllables": [
+        "Vat",
+        "an",
+        "da",
+        "şı"
+      ],
+      "level": 20,
+      "emoji": "🇹🇷"
+    },
+    {
+      "id": "w155",
+      "word": "Yarasalar",
+      "syllables": [
+        "Ya",
+        "ra",
+        "sa",
+        "lar"
+      ],
+      "level": 20,
+      "emoji": "🦇"
+    },
+    {
+      "id": "w156",
+      "word": "Zeytinliği",
+      "syllables": [
+        "Zey",
+        "tin",
+        "li",
+        "ği"
+      ],
+      "level": 20,
+      "emoji": "🫒"
+    },
+    {
+      "id": "w157",
+      "word": "Kanguruya",
+      "syllables": [
+        "Kan",
+        "gu",
+        "ru",
+        "ya"
+      ],
+      "level": 20,
+      "emoji": "🦘"
+    },
+    {
+      "id": "w158",
+      "word": "Tikiliği",
+      "syllables": [
+        "Ti",
+        "ki",
+        "li",
+        "ği"
+      ],
+      "level": 20,
+      "emoji": "🦊"
+    },
+    {
+      "id": "w159",
+      "word": "Portakalı",
+      "syllables": [
+        "Por",
+        "ta",
+        "ka",
+        "lı"
+      ],
+      "level": 20,
+      "emoji": "🍊"
+    },
+    {
+      "id": "w160",
+      "word": "Kelebeği",
+      "syllables": [
+        "Ke",
+        "le",
+        "be",
+        "ği"
+      ],
+      "level": 20,
+      "emoji": "🦋"
+    }
+  ]
+}

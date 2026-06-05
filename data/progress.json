@@ -1,0 +1,80 @@
+{
+  "users": {
+    "Alperen": {
+      "userId": "Alperen",
+      "completedLevels": [
+        1,
+        2,
+        3
+      ],
+      "currentLevel": 4,
+      "score": 350,
+      "completedWords": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5"
+      ],
+      "createdAt": "2026-06-04T10:00:00.000Z"
+    },
+    "Zeynep": {
+      "userId": "Zeynep",
+      "completedLevels": [
+        1,
+        2
+      ],
+      "currentLevel": 3,
+      "score": 280,
+      "completedWords": [
+        "w1",
+        "w2",
+        "w3"
+      ],
+      "createdAt": "2026-06-04T10:05:00.000Z"
+    },
+    "Defne": {
+      "userId": "Defne",
+      "completedLevels": [
+        1
+      ],
+      "currentLevel": 2,
+      "score": 190,
+      "completedWords": [
+        "w1",
+        "w2"
+      ],
+      "createdAt": "2026-06-04T10:10:00.000Z"
+    },
+    "Eren": {
+      "userId": "Eren",
+      "completedLevels": [
+        1,
+        2
+      ],
+      "currentLevel": 3,
+      "score": 250,
+      "completedWords": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5",
+        "w6",
+        "w7",
+        "w8",
+        "w9",
+        "w10",
+        "w11",
+        "w12",
+        "w13",
+        "w14",
+        "w15",
+        "w16",
+        "w17",
+        "w18"
+      ],
+      "createdAt": "2026-06-04T11:51:25.630Z"
+    }
+  }
+}

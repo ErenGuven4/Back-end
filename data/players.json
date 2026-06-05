@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "username": "kahraman42",
+      "email": "k@oyun.com",
+      "password": "$2b$10$KZ3ohTOeeLZkw8iYkStN4eAEuOs48YC9aqprj56Po8AeWTvH3wzd2",
+      "refreshToken": "$2b$10$ezh9aGyTJ8MX.z7KVkyL/.uQWJkwHjrIzY8rSkVLng3.Y3y271oDS",
+      "role": "player",
+      "level": 0,
+      "createdAt": "2026-06-04T22:02:54.290Z"
+    }
+  ],
+  "nextId": 2
+}
